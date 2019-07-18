@@ -12,15 +12,28 @@
 ### 字体
    写代码时，我们得一直面对着电脑屏幕，所以字体的显示很重要。默认字体配上1080P，简直要瞎眼。
    我千挑万选，选了两款字体：[FiraCode](https://github.com/tonsky/FiraCode)和[Operator Mono](https://www.typography.com/blog/introducing-operator?source=post_page---------------------------).
+
+
+
+
    字体预览：
+
+
+
+
+
    FiraCode：
 
    ![TIM图片20190718184622.png](https://i.loli.net/2019/07/18/5d304e1e977ca96618.png)
 
    Operator Mono：
    ![TIM图片20190718184539.png](https://i.loli.net/2019/07/18/5d304e1e8772b67232.png)
-   
+
    其中Operator Mono为付费字体,但是我已经将其下载好了,直接clone项目,解压安装即可.
+
+
+
+   
    安装方法：
    1. 先colone项目，找到压缩包：
 
