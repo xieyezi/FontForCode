@@ -1,57 +1,35 @@
 {
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.fontSize": 18,
-    "files.autoSave": "afterDelay",
-    "editor.fontFamily": "Operator Mono, Fira Code, Menlo, Monaco, Consolas, Menlo,  'Courier New', monospace",
-    "editor.fontLigatures": true,
-    "debug.console.fontSize": 16,
-    "markdown.preview.fontSize": 16,
-    "workbench.colorTheme": "One Dark Pro Vivid",
-    "editor.lineHeight": 26,
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-    "terminal.integrated.fontSize": 16,
-    "window.zoomLevel": 0,
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-          {
-            "name": "italic font",
-            "scope": [
-              "comment",
-              "keyword",
-              "storage",
-              "keyword.control",
-              "keyword.control.from",
-              "keyword.control.flow",
-              "keyword.operator.new",
-              "keyword.control.import",
-              "keyword.control.export",
-              "keyword.control.default",
-              "keyword.control.trycatch",
-              "keyword.control.conditional",
-              "storage.type",
-              "storage.type.class",
-              "storage.modifier.tsx",
-              "storage.type.function",
-              "storage.modifier.async",
-              "variable.language",
-              "variable.language.this",
-              "variable.language.super",
-              "meta.class",
-              "meta.var.expr",
-              "constant.language.null",
-              "support.type.primitive",
-              "entity.name.method.js",
-              "entity.other.attribute-name",
-              "punctuation.definition.comment",
-              "text.html.basic entity.other.attribute-name",
-              "tag.decorator.js entity.name.tag.js",
-              "tag.decorator.js punctuation.definition.tag.js",
-              "source.js constant.other.object.key.js string.unquoted.label.js",
-            ],
-            "settings": {
-              "fontStyle": "italic",
-            }
-          },
-        ]
-      },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 16,
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "Operator Mono, Fira Code, Menlo, Monaco, Consolas, Menlo,  'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "debug.console.fontSize": 16,
+  "markdown.preview.fontSize": 16,
+  "workbench.colorTheme": "One Dark Pro Vivid",
+  "editor.lineHeight": 26,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "window.zoomLevel": 0,
+  "editor.fontWeight": "300",
+  "debug.console.fontFamily": "Operator Mono, Fira Code, Menlo, Monaco, Consolas, Menlo,  'Courier New', monospace",
+  "terminal.integrated.fontFamily": "Operator Mono, Fira Code, Menlo, Monaco, Consolas, Menlo,  'Courier New', monospace",
+  "terminal.integrated.fontWeight": "200",
+  "terminal.integrated.fontSize": 16,
+  "ycy.reminderViewIntervalInMinutes": 45,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "fileheader.customMade": {
+    //koroFileHeader 插件配置
+    // 文件头部注释 快捷键：window：ctrl+alt+i,mac：ctrl+cmd+i
+    "Author": "xieyezi",
+    "Github": "https://github.com/xieyezi",
+    "Date": "Do not edit",
+    "LastEditors": "xieyezi",
+    "LastEditTime": "Do not edit"
+    // 函数注释 快捷键：window：ctrl+alt+t,mac：ctrl+cmd+t
+    /**
+      * @description: 
+      * @param {type} 
+      * @return: 
+      */ 
+  }
 }
